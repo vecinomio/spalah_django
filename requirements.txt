@@ -1,0 +1,5 @@
+Django==1.11
+names==0.3.0
+PyMySQL==0.8.1
+pytz==2018.4
+
